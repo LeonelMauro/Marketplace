@@ -16,6 +16,7 @@ El proyecto esta desarrollado para que multiples usuarios se puedan comunicar en
 Los usuarios tiene los veneficios de poder modificar, eliminar los articulos . Ademas de poder ver los mensajes que le mandan los clientes con la fecha y horario en el cual fue enviado.
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/bd214476-42da-4044-b3e6-ff6d0bc7f919)
 
+![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/7b877277-0294-4491-8199-b5743a7c8dbf)
 
 
 CHAT
@@ -27,7 +28,6 @@ CHAT
 
 El objetivo esta dirigido a grandes , medias y pequeñas empresas o usuarios comunes las cuales quierar obtener los beneficios de vender de sus articulos nuevos o usados con las caracteristicas de colocar en sus mercacias: nombre ,descripcion , precio, imagen, etc.
 
-![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/7b877277-0294-4491-8199-b5743a7c8dbf)
 
 
 Para instalar las dependecias y inicializar el proyecto :
