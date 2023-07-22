@@ -56,10 +56,12 @@ Diagramas UML
 FODA
 
 FOTALEZAS
+
 • Utilizacion simple y eficiente para los usuarios favorece la venta sus articulos
 
 OPORTUNIDADES
 • Potencial de generecion de ingresos: Perminte a los productores generar ingresos adicionales durante cualquier hora por lo que puede ser motivacion para la participacion del proyecto.
+
 • Potencial de expacion : Una vez establecida la aplicación puede expadirce a diferentes productores y hacer ventas masivas y favorezer al vendedor.
 
 DEVILIDADES
@@ -68,4 +70,5 @@ DEVILIDADES
 
 AMENAZAS
 • Crisis economica: ante la creciente crisis es probable que la demanda se vea disminuida.
+
 • La falta de acceso a internet .
