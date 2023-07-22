@@ -10,6 +10,9 @@ El proyecto esta desarrollado para que multiples usuarios se puedan comunicar en
 
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/b4292aaf-815f-41d7-bca7-bb836d961f3e)
 
+![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/32f0ee58-1d5b-4bb5-a076-e180df0ae0cd)
+
+
 Los usuarios tiene los veneficios de poder modificar, eliminar los articulos . Ademas de poder ver los mensajes que le mandan los clientes con la fecha y horario en el cual fue enviado.
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/bd214476-42da-4044-b3e6-ff6d0bc7f919)
 
@@ -27,7 +30,6 @@ El objetivo esta dirigido a grandes , medias y pequeñas empresas o usuarios com
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/7b877277-0294-4491-8199-b5743a7c8dbf)
 
 
-![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/b6af67a2-d76e-4864-bcd4-fad3b2144c66)
 Para instalar las dependecias y inicializar el proyecto :
 
 1_ clonar el proyecto
