@@ -25,7 +25,9 @@ Los usuarios tiene los veneficios de poder modificar, eliminar los articulos . A
 
 
 El objetivo esta dirigido a grandes , medias y pequeñas empresas o usuarios comunes las cuales quierar obtener los beneficios de vender de sus articulos nuevos o usados con las caracteristicas de colocar en sus mercacias: nombre ,descripcion , precio, imagen, etc.
+
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/32f0ee58-1d5b-4bb5-a076-e180df0ae0cd)
+
 
 ### Para instalar las dependecias y inicializar el proyecto :
 
@@ -47,8 +49,11 @@ pip install -r requirements.txt
 python manage.py runserver
 
 # Diagramas UML
-
+## DIAGRAMA DE CLASE
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/0bd8456c-a14d-46d8-a492-d081e8999ff0)
+## DIAGRAMA CASO DE USO
+![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/f4c19f7a-2e93-45ce-a123-9f02a78aa339)
+
 
 # FODA
 
