@@ -5,6 +5,7 @@ DA – ONLINE
 
 
 INTRUCCION
+
 El proyecto esta desarrollado para que multiples usuarios se puedan comunicar entre ellos para vender sus productos . En el cual se encuentra el administrador del sistema quien puede realizar modificaciones y mejoras.
 
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/b4292aaf-815f-41d7-bca7-bb836d961f3e)
@@ -47,16 +48,18 @@ Diagramas UML
 
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/0bd8456c-a14d-46d8-a492-d081e8999ff0)
 
-### FODA**
-**FOTALEZAS
-**• Utilizacion simple y eficiente para los usuarios favorece la venta sus articulos
+FODA
 
-DEVILIDADES
-• Depedende de la participacion de los usuarios el éxito del proyecto al participar y lazar los artuculos. La falta de participacion afecta el objetivo.
+FOTALEZAS
+• Utilizacion simple y eficiente para los usuarios favorece la venta sus articulos
 
 OPORTUNIDADES
 • Potencial de generecion de ingresos: Perminte a los productores generar ingresos adicionales durante cualquier hora por lo que puede ser motivacion para la participacion del proyecto.
 • Potencial de expacion : Una vez establecida la aplicación puede expadirce a diferentes productores y hacer ventas masivas y favorezer al vendedor.
+
+DEVILIDADES
+• Depedende de la participacion de los usuarios el éxito del proyecto al participar y lazar los artuculos. La falta de participacion afecta el objetivo.
+
 
 AMENAZAS
 • Crisis economica: ante la creciente crisis es probable que la demanda se vea disminuida.
