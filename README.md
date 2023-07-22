@@ -24,6 +24,9 @@ CHAT
 
 El objetivo esta dirigido a grandes , medias y pequeñas empresas o usuarios comunes las cuales quierar obtener los beneficios de vender de sus articulos nuevos o usados con las caracteristicas de colocar en sus mercacias: nombre ,descripcion , precio, imagen, etc.
 
+![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/7b877277-0294-4491-8199-b5743a7c8dbf)
+
+
 ![image](https://github.com/LeonelMauro/Marketplace/assets/134123021/b6af67a2-d76e-4864-bcd4-fad3b2144c66)
 Para instalar las dependecias y inicializar el proyecto :
 
