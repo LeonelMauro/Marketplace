@@ -34,7 +34,7 @@ El objetivo esta dirigido a grandes , medias y pequeñas empresas o usuarios com
 1_ clonar el proyecto
 
 2_ crear un ambiente virtual con el comando:
-Python venv –m “nombre-del-proyecto”
+Python –m venv “nombre-del-proyecto”
 
 3_ entrar en la carperta virtual:
 cd “nombre-del-proyecto”
